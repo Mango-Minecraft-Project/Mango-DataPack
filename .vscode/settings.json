@@ -1,0 +1,15 @@
+{
+  "editor.tabSize": 2,
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "cSpell.words": [
+    "datapack",
+    "datapacks",
+    "xekr",
+    "xkback",
+    "xklazy",
+    "xksmallmap"
+  ]
+}
