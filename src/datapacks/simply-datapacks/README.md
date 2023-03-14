@@ -1,3 +1,3 @@
 # Simply Datapacks
 
-- [Simply AE2Things](./simply-ae2thing/)
+- [Simply AE2Thing](./simply-ae2thing/)
